@@ -1,4 +1,4 @@
-# Laboratiorio Devops
+# Laboratório Devops
 
 [![Build Status](https://app.travis-ci.com/lucashenriquedesouza/devopslab.svg?branch=main)](https://app.travis-ci.com/lucashenriquedesouza/devopslab)
 
